@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend clone  of social media app by using FastAPI
 
 #### This API  has 4 routes
@@ -78,3 +79,6 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 60(base)
   <a href="https://www.youtube.com/watch?v=Yw4LmMQXXFs&list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM&index=2">
     <img src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630" alt="youtube Badge"/>
   </a>
+=======
+# PythonAPI
+>>>>>>> 5c47aabe83ec88c90a30e75b2984169effa7af35
