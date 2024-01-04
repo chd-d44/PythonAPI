@@ -16,3 +16,6 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
+
+
+# find me:nbi76f7guytyukg67i77
